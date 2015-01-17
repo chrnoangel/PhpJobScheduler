@@ -1,3 +1,3 @@
 # PhpJobScheduler
 
-Test de projet Git
+Projet d'ordonanceur en Php
